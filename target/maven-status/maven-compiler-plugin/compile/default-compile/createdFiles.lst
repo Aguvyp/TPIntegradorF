@@ -1,0 +1,6 @@
+org\argentinaprograma\TPIntegradorF\EnumResultado.class
+org\argentinaprograma\TPIntegradorF\LeerArchivos.class
+org\argentinaprograma\TPIntegradorF\models\ArchPronostico.class
+org\argentinaprograma\TPIntegradorF\models\ArchResultado.class
+org\argentinaprograma\TPIntegradorF\App.class
+org\argentinaprograma\TPIntegradorF\ConectarSQL.class
